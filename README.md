@@ -7,6 +7,8 @@ I am currently based out of Canada 🇨🇦 ❄️
 
 📚 I love to Read & my favourite book is Harry Potter & the Half-Blood Prince 
 
+🔭 My aim with this GitHub is to document my learnings like how jbranchaud is doing on hit github #TIL
+
 📫 Feel free to get in thouch with me through my website.
 
 
