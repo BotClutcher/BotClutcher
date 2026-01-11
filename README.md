@@ -1,4 +1,12 @@
 ## Hi there 👋
+My name is Vidur Sharma. I just like calling myself as TheBotClutcher, sounds cool to me :D
+
+I am currently based out of Canada 🇨🇦 ❄️
+
+🌱 I’m currently learning AI, Cyber & well a lot of other stuff
+
+📚 I love to Read & my favourite book is Harry Potter & the Half-Blood Prince 
+
 
 <!--
 **BotClutcher/BotClutcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
