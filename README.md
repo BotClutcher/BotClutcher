@@ -3,14 +3,7 @@ My name is Vidur Sharma. I just like calling myself as TheBotClutcher, sounds co
 
 I am currently based out of Canada 🇨🇦 ❄️
 
-🌱 I’m currently learning AI, Cyber & well a lot of other stuff
-
-📚 I love to Read 
-- favourite one is Harry Potter & the Half-Blood Prince 
-
-🔭 My aim with this GitHub is to document my learnings like how jbranchaud is doing on hit github #TIL
-
-📫 Feel free to get in thouch with me through my website.
+🌱 Aim with this place is to document what I am learning 🔭
 
 
 <!--
