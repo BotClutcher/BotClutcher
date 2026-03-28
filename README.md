@@ -1,6 +1,7 @@
 ## Hi there 👋
 My name is Vidur Sharma. I just like calling myself as TheBotClutcher, sounds cool to me :D
-
+  The profile pic is Saturu Gojo's blue eyes & white hairs with my animated face. Well I like it so why not 😄
+  
 I am currently based out of Canada 🇨🇦 ❄️
 
 🌱 Aim with this place is to document what I am learning 🔭
